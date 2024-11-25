@@ -27,7 +27,7 @@ To run the project from the command line:
 2. After building, navigate to the `dist` folder where the compiled JAR file is located.
 3. Run the application with the following command:
 
-  ##Instructions
+  ###Instructions
 1. When the program starts, you will be prompted to enter your personal information such as name, email, and date of birth.
 2. Next, you'll be asked for your phone number and personal ID number.
 3. Choose the city you wish to travel to.
@@ -36,7 +36,7 @@ To run the project from the command line:
 6. After booking, the system will print your ticket and save your booking data in a text file.
 7. Finally, you can rate the program using stars from 1 to 5.
 
-##Project Structure
+###Project Structure
 - AirplaneTicketsReservation.java: Contains the main code to run the application.
 - CustomerInformation.java: Stores user information.
 - City.java: Stores the destination city details.
